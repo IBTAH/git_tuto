@@ -17,3 +17,5 @@ Description de notre commit avec les iformations sur le projet
 '''bash
 git checkout -b develop
 '''
+
+Pour les bonnes pratiques on va intégrer la notion de revue de code
