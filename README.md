@@ -7,8 +7,13 @@ git init
 URL : git remote add origin https://github.com/IBTAH/git_tuto.git
 '''
 
-## Rediger un commit
+## Rediger un commit (bonne pratique)
 '''
 Titre du document
 Description de notre commit avec les iformations sur le projet
+'''
+
+## Creation d'une nouvelle branche
+'''bash
+git checkout -b develop
 '''
